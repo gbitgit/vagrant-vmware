@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version     = VagrantVMware::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Barry Allard']
-  s.email       = ['barry@barryallard.name']
+  s.email       = ['barry.allard@gmail.com']
   s.homepage    = 'http://rubygems.org/gems/vagrant-vmware'
   s.summary     = 'A Vagrant plugin to add VMware support.'
   s.description = 'Adds VMware Fusion 3, 4 and Workstation 6, 7 support to Vagrant.'
